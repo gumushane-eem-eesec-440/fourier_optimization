@@ -1,6 +1,6 @@
 # Fourier Series Optimization
 
-<img src="figure/sample audio signal.png" alt="sample audio signal" height="240"/>
+<img src="figure/sample audio signal.png" alt="sample audio signal" height="200"/>
 
 *Figure 1:* A sample audio signal captured by a student in EESEC 440 class. Our goal is to anticipate a model for this signal and optimize the adjustable parameters to come up with a mathematical model.
 
