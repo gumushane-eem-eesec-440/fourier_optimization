@@ -4,7 +4,7 @@
 
 *Figure 1:* A sample audio signal captured by a student in EESEC 440 class. Our goal is to anticipate a model for this signal and optimize the adjustable parameters to come up with a mathematical model.
 
-<img src="math/fourier anticipated model.JPG" alt="fourier series anticipated model" height="100"/>
+<img src="math/fourier anticipated model single line.JPG" alt="fourier series anticipated model" height="40"/>
 
 <img src="figure/anticipated components of the target signal.png" alt="anticipated components of the target signal" height="360"/>
 
