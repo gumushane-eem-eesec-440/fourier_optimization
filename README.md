@@ -29,7 +29,7 @@ We know that if are able to optimize for the tunable parameters (i.e., four ampl
 
 Evetually, if we are able to obtain (____________) the correct parameter set, then the system output would be as shown in *Fig. 4*.
 
-<img src="figure/target and output fourier.png" alt="target signal and the system output for the fourier optimization problem" height="200"/>
+<img src="figure/target and estimate fourier.png" alt="target signal and the system output for the fourier optimization problem" height="200"/>
 
 *Figure 4:* Target signal and the system model output (i.e., estimated signal).
 ## References
