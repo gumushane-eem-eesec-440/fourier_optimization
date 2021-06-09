@@ -25,7 +25,7 @@ Here, we seek for the optimal value of the coefficient vector
 
 <img src="math/c vector.JPG" alt="coefficient vector" height="200"/>
 
-We know that if are able to optimize for the tunable parameters (i.e., four amplitude values and four frequency values and the DC bias), then we can draw the individual components of the signal given in *Fig. 1*.
+We know that if are able to optimize for the tunable parameters (i.e., four amplitude values and four frequency values and the DC bias), then we can draw the individual components of the signal shown in *Fig. 1*. Please see *Fig. 4* for the individual components.
 
 <img src="figure/fourier series components.png" alt="fourier series components" height="200"/>
 
