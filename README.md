@@ -6,7 +6,7 @@
 
 <img src="math/fourier anticipated model single line.JPG" alt="fourier series anticipated model" height="30"/>
 
-<img src="figure/anticipated components of the target signal.png" alt="anticipated components of the target signal" height="360"/>
+<img src="figure/fourier series components.png" alt="fourier series components" height="360"/>
 
 *Figure 2:* The target signal.
 ## References
