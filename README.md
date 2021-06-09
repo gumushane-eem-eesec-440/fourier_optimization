@@ -7,15 +7,19 @@ In the laboratory of our department, a student captured an audio signal (see *Fi
 
 *Figure 1:* The sample audio signal captured by a student in EESEC 440 class.
 
-An experienced engineer (e.g., Nurhan Gunes, __________) recommends using the model below.
+An experienced engineer (e.g., Nurhan Gunes, ____________) recommends using the model below.
 
 <img src="math/fourier anticipated model single line.JPG" alt="fourier series anticipated model" height="30"/>
 
 Consequently, block diagram of this optimization/________ problem can be illustrated as follows.
 
-<img src="figure/fourier series components.png" alt="fourier series components" height="200"/>
+<img src="figure/fourier model.png" alt="the model for the fourier series problem" height="200"/>
 
 *Figure 2:* Block diagram of the Fourier series optimization problem.
+
+<img src="figure/fourier series components.png" alt="fourier series components" height="200"/>
+
+*Figure 3:* Block diagram of the Fourier series optimization problem.
 
 Here, we seek for the optimal value of the coefficient vector
 
@@ -25,13 +29,13 @@ We know that if are able to optimize for the tunable parameters (i.e., four ampl
 
 <img src="figure/fourier series components.png" alt="fourier series components" height="200"/>
 
-*Figure 3:* Fourier series components.
+*Figure 4:* Fourier series components.
 
-Evetually, if we are able to obtain (____________) the correct parameter set, then the system output would be as shown in *Fig. 4*.
+Evetually, if we are able to obtain (____________) the correct parameter set, then the system output would be as shown in *Fig. 5*.
 
 <img src="figure/target and estimate fourier.png" alt="target signal and the system output for the fourier optimization problem" height="200"/>
 
-*Figure 4:* Target signal and the system model output (i.e., estimated signal).
+*Figure 5:* Target signal and the system model output (i.e., estimated signal).
 ## References
 [1] Fourier Series - https://mathworld.wolfram.com/FourierSeries.html</br>
 [2] SciPy Python Library - https://www.scipy.org/</br>
