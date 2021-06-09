@@ -31,7 +31,7 @@ We know that if are able to optimize for the tunable parameters (i.e., four ampl
 
 *Figure 4:* Fourier series components.
 
-Evetually, if we are able to obtain (____________) the correct parameter set, then the system output would be as shown in *Fig. 5*.
+Eventually, if we are able to obtain (attain) the correct parameter set, then the system output would be as shown in *Fig. 5*.
 
 <img src="figure/target and estimate fourier.png" alt="target signal and the system output for the fourier optimization problem" height="200"/>
 
