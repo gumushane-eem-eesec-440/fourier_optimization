@@ -11,7 +11,7 @@ An experienced engineer (e.g., Nurhan Gunes, Gokhan Cetin) recommends using the 
 
 <img src="math/fourier anticipated model single line.JPG" alt="fourier series anticipated model" height="30"/>
 
-Consequently, block diagram of this optimization/________ problem can be illustrated as follows.
+Consequently, block diagram of this optimization/learning problem can be illustrated/visualized/shown/portrayed/sketched as follows.
 
 <img src="figure/fourier model.png" alt="the model for the fourier series problem" height="200"/>
 
