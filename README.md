@@ -7,7 +7,7 @@ In the laboratory of our department, a student captured an audio signal (see *Fi
 
 *Figure 1:* The sample audio signal captured by a student in EESEC 440 class.
 
-An experienced engineer (e.g., Nurhan Gunes, ____________) recommends using the model below.
+An experienced engineer (e.g., Nurhan Gunes, Gokhan Cetin) recommends using the model below.
 
 <img src="math/fourier anticipated model single line.JPG" alt="fourier series anticipated model" height="30"/>
 
