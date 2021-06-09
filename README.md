@@ -8,6 +8,6 @@
 
 <img src="figure/fourier series components.png" alt="fourier series components" height="200"/>
 
-*Figure 2:* The target signal.
+*Figure 2:* Fourier series components.
 ## References
 [1] Fourier Series - https://mathworld.wolfram.com/FourierSeries.html</br>
